@@ -1,0 +1,12 @@
+# data (large, download from Zenodo)
+data/*
+!data/.gitkeep
+
+# python / jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+.gz
+.tsv
